@@ -25,5 +25,21 @@ namespace GeneralClass
             InitializeComponent();
         }
 
+        private void SecondNumber_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void button_Copy_Click(object sender, RoutedEventArgs e)
+        {
+            ClassMichael dodajs = new ClassMichael(double.Parse(FirstNumber.Text), double.Parse(SecondNumber.Text));
+            wynikBox.Text = dodajs.pomnoz().ToString();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            ClassMichael dodajs = new ClassMichael(double.Parse(FirstNumber.Text), double.Parse(SecondNumber.Text));
+            wynikBox.Text = dodajs.dodaj().ToString();
+        }
     }
 }

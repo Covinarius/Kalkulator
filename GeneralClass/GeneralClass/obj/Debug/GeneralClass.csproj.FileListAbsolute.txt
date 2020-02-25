@@ -1,0 +1,14 @@
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\bin\Debug\GeneralClass.exe.config
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\bin\Debug\GeneralClass.exe
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\bin\Debug\GeneralClass.pdb
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass.csprojAssemblyReference.cache
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\KalkulatorWPF.g.cs
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\App.g.cs
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass_MarkupCompile.cache
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass_MarkupCompile.lref
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\KalkulatorWPF.baml
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass.g.resources
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass.Properties.Resources.resources
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass.csproj.GenerateResource.cache
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass.exe
+C:\Users\Michał\Documents\GitHub\Kalkulator\GeneralClass\GeneralClass\obj\Debug\GeneralClass.pdb
